@@ -7,3 +7,6 @@
 
 #### Upload your own image and adjust the Confidence Threshold to see output change!
 ![image](https://github.com/colin-210/FaceDetection_SL/assets/146024514/1143c9f7-ad13-42a3-ada8-d337491c088c)
+
+-----------
+![image](https://github.com/colin-210/FaceDetection_SL/assets/146024514/c9bf1805-5bc0-471a-8e7f-ef55794f1fd5)
