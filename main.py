@@ -38,7 +38,7 @@ def process_detections(frame, detections, conf_threshold):
 
 
 # function to load dnn model
-#@st.cache_resource
+@st.cache_resource
 def load_model():
     modelFile = "res10_300X300_ssd_iter_140000_fp16.caffemodel"
     configFile = "deploy.prototxt"
